@@ -1,4 +1,5 @@
 **Privacy Policy for Gym Tracker 5 App, also known as Hard**
+
 Last Updated: March 27 2025
 
 **Introduction**
