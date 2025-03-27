@@ -1,8 +1,8 @@
-**Privacy Policy for Gym Tracker 5 App**
-Last Updated: March 10 2025
+**Privacy Policy for Gym Tracker 5 App, also known as Hard**
+Last Updated: March 27 2025
 
 **Introduction**
-Welcome to the Gym Tracker App ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App"). We respect your privacy and are committed to protecting it through our compliance with this policy.
+Welcome to the Gym Tracker App, also known as Hard ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App"). We respect your privacy and are committed to protecting it through our compliance with this policy.
 
 **Information We Collect:**
 We collect the following types of information:
@@ -45,4 +45,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 **Contact Us**
 If you have any questions about this Privacy Policy or our data practices, please contact us through the support link in the App.
 ---
-This policy is effective as of March 10 2025
+This policy is effective as of March 27 2025
