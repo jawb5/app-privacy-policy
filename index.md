@@ -1,9 +1,9 @@
-**Privacy Policy for Gym Tracker 5 App, also known as Hard**
+**Privacy Policy for Gym Tracker 5 App, also known as Fitlytics*
 
 Last Updated: March 27 2025
 
 **Introduction**
-Welcome to the Gym Tracker App, also known as Hard ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App"). We respect your privacy and are committed to protecting it through our compliance with this policy.
+Welcome to the Gym Tracker App, also known as Fitlytics ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App"). We respect your privacy and are committed to protecting it through our compliance with this policy.
 
 **Information We Collect:**
 We collect the following types of information:
