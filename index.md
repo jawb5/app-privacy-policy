@@ -1,6 +1,6 @@
 **Privacy Policy for Gym Tracker 5 App, also known as Fitlytics*
 
-Last Updated: March 27 2025
+Last Updated: February 12 2026
 
 **Introduction**
 Welcome to the Gym Tracker App, also known as Fitlytics ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App"). We respect your privacy and are committed to protecting it through our compliance with this policy.
@@ -10,6 +10,8 @@ We collect the following types of information:
 Account Information
 Username information for subscription management
 Account preferences
+Usage Data
+Limited device information (such as device identifier wehn you opt in)
 
 **Usage Data**
 Anonymous usage statistics
@@ -25,8 +27,9 @@ Performance Monitoring: To identify and fix technical issues
 Feature Development: To determine which features are most valuable to users
 
 **Data Sharing and Third Parties**
-We do not share your personal data with third parties.
-While we may use industry-standard analytics tools to process anonymous usage data, we do not sell, rent, or otherwise disclose your personal information to any third parties.
+Advertising and Measurement
+We use mobile measurement partners (such as Tenjin) to understand the performance of our advertising campaigns on platforms like TikTok and Meta. This involves sharing limited, anonymized information about app installs, trial starts, and subscriptions. This data helps us optimize our ads and improve the return on our marketing spend.
+We do not sell your personal data, and the information shared with these partners is not linked to your identity.
 
 **Data Security**
 We implement appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing, accidental loss, destruction, or damage.
@@ -46,4 +49,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 **Contact Us**
 If you have any questions about this Privacy Policy or our data practices, please contact us through the support link in the App.
 ---
-This policy is effective as of March 27 2025
+This policy is effective as of February 11 2026
