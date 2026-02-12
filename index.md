@@ -31,6 +31,9 @@ Advertising and Measurement
 We use mobile measurement partners (such as Tenjin) to understand the performance of our advertising campaigns on platforms like TikTok and Meta. This involves sharing limited, anonymized information about app installs, trial starts, and subscriptions. This data helps us optimize our ads and improve the return on our marketing spend.
 We do not sell your personal data, and the information shared with these partners is not linked to your identity.
 
+Health & Fitness Data
+With your permission, the app may write workout, active energy, and other fitness data to Apple Health. In future updates we may also read heart rate data (when available) to improve calorie estimates. All health and fitness data stays on your device. We do not collect it and therefore it is never shared with third parties or used for advertising.
+
 **Data Security**
 We implement appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing, accidental loss, destruction, or damage.
 
