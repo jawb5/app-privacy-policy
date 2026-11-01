@@ -1,6 +1,6 @@
 **Privacy Policy for Gym Tracker 5 App, also known as Fitlytics**
 
-Last Updated: 19 October 2026
+Last Updated: 1 November 2026
 
 **Introduction**
 
@@ -8,10 +8,10 @@ Welcome to the Gym Tracker App, also known as Fitlytics ("we," "our," or "us"). 
 
 **Information We Collect**
 
-We never collect your name, email address or Apple ID, and we never send anything you type, such as workout notes or template names. We collect the following:
+We never collect your name, email address or Apple ID, and we never send anything you type, such as workout notes or template names, except the username you choose if you join the leaderboards. We collect the following:
 
 - App ID: a random identifier created for your copy of the App by our subscription provider. It is not your name, email or Apple ID. We use it to connect your App usage with your subscription.
-- App usage: the screens you open and how long you spend on them; the buttons, menus and settings you use, including the setting you choose (for example kg or lb); errors and empty screens you see; and tutorial steps.
+- App usage: the screens you open and how long you spend on them; the buttons, menus and settings you use, including the settings you choose (for example kg or lb, or the male or female body map); errors and empty screens you see; and tutorial steps.
 - Workout summaries: when a workout starts and finishes, its length, the number of sets and exercises, personal bests (by exercise name), and totals such as how many workouts and templates you have.
 - App performance: how quickly the App responds to taps and opens screens, App freezes, start-up time, App version, device model and iOS version.
 - Approximate location: country and city, estimated from your IP address by our analytics provider. We do not collect precise location.
@@ -61,13 +61,21 @@ Some providers process data outside the UK and EU. Where they do, they protect i
 
 With your permission, the app may write workout, active energy, and other fitness data to Apple Health. In future updates we may also read heart rate data (when available) to improve calorie estimates. Apple Health data stays on your device. We do not collect it, and it is never shared with third parties or used for advertising.
 
-Your full workout log (exercises, weights, reps and notes) is stored on your device and in your own iCloud account, and we cannot see it. Only the workout summaries listed under "Information We Collect" are sent to our analytics provider.
+Your full workout log (exercises, weights, reps and notes) is stored on your device and in your own iCloud account, and we cannot see it. Only the workout summaries listed under "Information We Collect" are sent to our analytics provider, and, if you join the leaderboards, the statistics described under "Leaderboards" below.
+
+**Leaderboards (optional)**
+
+If you join the leaderboards, we use your username and workout statistics to run leaderboards, friends, duels and rewards. These include workouts, sets, volume, personal bests, medals, strength ranks, sets per muscle group and best lifts. Other Fitlytics users can see these statistics next to your username.
+
+We do not show your name, email address, notes, photos or exact bodyweight.
+
+We process this data with your consent, which you give when you join. You can leave at any time in Settings. Leaving deletes your leaderboard data. You can also ask us for a copy of it.
 
 **Legal Basis (UK and EU Users)**
 
 - Legitimate interests: product analytics and performance monitoring, to improve the App.
 - Contract: managing your subscription.
-- Consent: advertising tracking (the iOS tracking prompt), notifications and Apple Health access. You can withdraw consent at any time in iOS Settings.
+- Consent: advertising tracking (the iOS tracking prompt), notifications, Apple Health access and the leaderboards. You can withdraw consent at any time in iOS Settings, or for the leaderboards in the App's Settings.
 
 **How Long We Keep Data**
 
@@ -107,4 +115,4 @@ If you have any questions about this Privacy Policy or our data practices, pleas
 
 ---
 
-This policy is effective as of 19 October 2026
+This policy is effective as of 1 November 2026
