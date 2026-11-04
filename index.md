@@ -1,6 +1,6 @@
 **Privacy Policy for Gym Tracker 5 App, also known as Fitlytics**
 
-Last Updated: 1 November 2026
+Last Updated: 4 November 2026
 
 **Introduction**
 
@@ -8,9 +8,9 @@ Welcome to the Gym Tracker App, also known as Fitlytics ("we," "our," or "us"). 
 
 **Information We Collect**
 
-We never collect your name, email address or Apple ID, and we never send anything you type, such as workout notes or template names, except the username you choose if you join the leaderboards. We collect the following:
+We never collect your name, email address or Apple ID, and we never send your workout notes. We collect the following:
 
-- App ID: a random identifier created for your copy of the App by our subscription provider. It is not your name, email or Apple ID. We use it to connect your App usage with your subscription.
+- App ID: a random identifier created for your copy of the App by our subscription provider. It is not your name, email or Apple ID. We use it to connect your App usage with your subscription and, if you join the leaderboards, with your leaderboard account, so we can help you and keep the leaderboards fair.
 - App usage: the screens you open and how long you spend on them; the buttons, menus and settings you use, including the settings you choose (for example kg or lb, or the male or female body map); errors and empty screens you see; and tutorial steps.
 - Workout summaries: when a workout starts and finishes, its length, the number of sets and exercises, personal bests (by exercise name), and totals such as how many workouts and templates you have.
 - App performance: how quickly the App responds to taps and opens screens, App freezes, start-up time, App version, device model and iOS version.
@@ -18,6 +18,7 @@ We never collect your name, email address or Apple ID, and we never send anythin
 - Subscription and purchases: trial starts, purchases, renewals and cancellations, received from Apple through our subscription provider.
 - Notifications: a push notification token, if you allow notifications.
 - Survey answers: answers you choose to submit in the in-app feedback survey.
+- Support messages: if you contact us through the App, your messages and the details we need to help you, such as your App ID, App version, device and subscription status.
 - Advertising measurement: install and subscription events, and your device's advertising identifier only if you allow tracking when the App asks.
 
 **How We Use Your Information**
@@ -32,13 +33,15 @@ Performance Monitoring: To identify and fix technical issues
 
 Feature Development: To determine which features are most valuable to users
 
+Support: To answer your questions and fix problems you report
+
 Advertising Measurement: To understand which ad campaigns bring new users (see below)
 
 **Data Sharing and Third Parties**
 
 Advertising and Measurement
 
-We use mobile measurement partners (such as Tenjin) to understand the performance of our advertising campaigns on platforms like TikTok and Meta. This involves sharing limited, anonymized information about app installs, trial starts, and subscriptions. This data helps us optimize our ads and improve the return on our marketing spend.
+We use mobile measurement partners to understand the performance of our advertising campaigns on social media platforms. This involves sharing limited, anonymized information about app installs, trial starts, and subscriptions. This data helps us optimize our ads and improve the return on our marketing spend.
 
 We do not sell your personal data, and the information shared with these partners is not linked to your identity.
 
@@ -46,13 +49,13 @@ Service Providers
 
 We use these service providers, who process data on our behalf under their own terms:
 
-- Amplitude: product analytics (App usage, workout summaries, performance), stored in Amplitude's EU data centre
-- Google Firebase Analytics: app analytics
-- RevenueCat: subscriptions and purchase status
-- Superwall: subscription screens
-- OneSignal: push notifications
-- Tenjin: ad campaign measurement, as described above
-- Supabase: feedback survey answers and the exercise library
+- Analytics (App usage, workout data, performance), stored in the EU
+- Subscriptions, purchases and subscription screens
+- Push notifications
+- Ad campaign measurement, as described above
+- Feedback survey answers and the exercise library
+- Hosting for the leaderboards
+- Support messaging
 - Apple: App Store purchases, iCloud sync and Apple Health
 
 Some providers process data outside the UK and EU. Where they do, they protect it with recognised safeguards such as Standard Contractual Clauses.
@@ -61,13 +64,13 @@ Some providers process data outside the UK and EU. Where they do, they protect i
 
 With your permission, the app may write workout, active energy, and other fitness data to Apple Health. In future updates we may also read heart rate data (when available) to improve calorie estimates. Apple Health data stays on your device. We do not collect it, and it is never shared with third parties or used for advertising.
 
-Your full workout log (exercises, weights, reps and notes) is stored on your device and in your own iCloud account, and we cannot see it. Only the workout summaries listed under "Information We Collect" are sent to our analytics provider, and, if you join the leaderboards, the statistics described under "Leaderboards" below.
+Your workout log is stored on your device and in your own iCloud account. Only the workout data listed under "Information We Collect" is sent to our analytics provider, and, if you join the leaderboards, the workout data described under "Leaderboards" below.
 
 **Leaderboards (optional)**
 
-If you join the leaderboards, we use your username and workout statistics to run leaderboards, friends, duels and rewards. These include workouts, sets, volume, personal bests, medals, strength ranks, sets per muscle group and best lifts. Other Fitlytics users can see these statistics next to your username.
+If you join the leaderboards, we use your username and workout data to run leaderboards, friends, duels and rewards, and to keep them fair. Workout data means your workouts and what you did in them, such as exercises, sets, weights and reps, and your results, such as personal bests, ranks and records. We may also use profile details you give us, such as your bodyweight range, to compare you fairly. Other Fitlytics users can see your results and workouts next to your username, to help keep the leaderboards fair. You can stop this at any time by leaving the leaderboards.
 
-We do not show your name, email address, notes, photos or exact bodyweight.
+We do not show your name, email address, notes or bodyweight.
 
 We process this data with your consent, which you give when you join. You can leave at any time in Settings. Leaving deletes your leaderboard data. You can also ask us for a copy of it.
 
@@ -79,7 +82,7 @@ We process this data with your consent, which you give when you join. You can le
 
 **How Long We Keep Data**
 
-We keep analytics data only for as long as it is useful for improving the App, and no longer than 24 months (2 years). Subscription records are kept as long as required for tax and accounting.
+We keep your data for as long as you use the App. If you stop using it, we delete or anonymise it within 24 months. Anonymised data, which can no longer identify you, may be kept indefinitely. Leaderboard data is deleted when you leave the leaderboards. Subscription records are kept as long as required for tax and accounting.
 
 **Data Security**
 
@@ -115,4 +118,4 @@ If you have any questions about this Privacy Policy or our data practices, pleas
 
 ---
 
-This policy is effective as of 1 November 2026
+This policy is effective as of 4 November 2026
