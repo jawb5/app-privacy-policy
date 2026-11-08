@@ -1,6 +1,6 @@
 **Privacy Policy for Gym Tracker 5 App, also known as Fitlytics**
 
-Last Updated: 4 November 2026
+Last Updated: 8 November 2026
 
 **Introduction**
 
@@ -8,7 +8,7 @@ Welcome to the Gym Tracker App, also known as Fitlytics ("we," "our," or "us"). 
 
 **Information We Collect**
 
-We never collect your name, email address or Apple ID, and we never send your workout notes. We collect the following:
+We never collect your email address or Apple ID, and we never send your workout notes. We collect the following:
 
 - App ID: a random identifier created for your copy of the App by our subscription provider. It is not your name, email or Apple ID. We use it to connect your App usage with your subscription and, if you join the leaderboards, with your leaderboard account, so we can help you and keep the leaderboards fair.
 - App usage: the screens you open and how long you spend on them; the buttons, menus and settings you use, including the settings you choose (for example kg or lb, or the male or female body map); errors and empty screens you see; and tutorial steps.
@@ -118,4 +118,4 @@ If you have any questions about this Privacy Policy or our data practices, pleas
 
 ---
 
-This policy is effective as of 4 November 2026
+This policy is effective as of 8 November 2026
