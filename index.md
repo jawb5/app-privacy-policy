@@ -1,6 +1,6 @@
 **Privacy Policy for Gym Tracker 5 App, also known as Fitlytics**
 
-Last Updated: 8 November 2026
+Last Updated: 26 November 2026
 
 **Introduction**
 
@@ -8,7 +8,7 @@ Welcome to the Gym Tracker App, also known as Fitlytics ("we," "our," or "us"). 
 
 **Information We Collect**
 
-We never collect your email address or Apple ID, and we never send your workout notes. We collect the following:
+If you join Social, we collect what you choose to share there (below). We collect the following:
 
 - App ID: a random identifier created for your copy of the App by our subscription provider. It is not your name, email or Apple ID. We use it to connect your App usage with your subscription and, if you join the leaderboards, with your leaderboard account, so we can help you and keep the leaderboards fair.
 - App usage: the screens you open and how long you spend on them; the buttons, menus and settings you use, including the settings you choose (for example kg or lb, or the male or female body map); errors and empty screens you see; and tutorial steps.
@@ -66,13 +66,13 @@ With your permission, the app may write workout, active energy, and other fitnes
 
 Your workout log is stored on your device and in your own iCloud account. Only the workout data listed under "Information We Collect" is sent to our analytics provider, and, if you join the leaderboards, the workout data described under "Leaderboards" below.
 
-**Leaderboards (optional)**
+**Social and leaderboards (optional)**
 
-If you join the leaderboards, we use your username and workout data to run leaderboards, friends, duels and rewards, and to keep them fair. Workout data means your workouts and what you did in them, such as exercises, sets, weights and reps, and your results, such as personal bests, ranks and records. We may also use profile details you give us, such as your bodyweight range, to compare you fairly. Other Fitlytics users can see your results and workouts next to your username, to help keep the leaderboards fair. You can stop this at any time by leaving the leaderboards.
+If you join Social, we use your username and workout data to run leaderboards, friends, duels and rewards, and to keep them fair. Your profile can also hold what you choose to add: a display name, photo, bio and links. We also keep who you follow, your likes and comments, and your time zone and language for notifications. Workout data means your workouts and what you did in them, such as exercises, sets, weights and reps, and your results, such as personal bests, ranks and records. We may also use profile details you give us, such as your bodyweight range, to compare you fairly. Other Fitlytics users can see your results and workouts next to your username, to help keep the leaderboards fair. You can stop this at any time by leaving the leaderboards.
 
-We do not show your name, email address, notes or bodyweight.
+We do not show your email address, notes or bodyweight.
 
-We process this data with your consent, which you give when you join. You can leave at any time in Settings. Leaving deletes your leaderboard data. You can also ask us for a copy of it.
+We process this data with your consent, which you give when you join. You can leave at any time in Settings. You can also ask us for a copy of your data.
 
 **Legal Basis (UK and EU Users)**
 
@@ -82,7 +82,7 @@ We process this data with your consent, which you give when you join. You can le
 
 **How Long We Keep Data**
 
-We keep your data for as long as you use the App. If you stop using it, we delete or anonymise it within 24 months. Anonymised data, which can no longer identify you, may be kept indefinitely. Leaderboard data is deleted when you leave the leaderboards. Subscription records are kept as long as required for tax and accounting.
+We keep your data for as long as you use the App. If you stop using it, we delete or anonymise it within 24 months. Anonymised data, which can no longer identify you, may be kept indefinitely. Subscription records are kept as long as required for tax and accounting.
 
 **Data Security**
 
@@ -118,4 +118,4 @@ If you have any questions about this Privacy Policy or our data practices, pleas
 
 ---
 
-This policy is effective as of 8 November 2026
+This policy is effective as of 26 November 2026
